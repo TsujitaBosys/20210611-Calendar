@@ -16,9 +16,6 @@ namespace Calendar
             int gTD = CC.getTotalDay(year, month);
             int gMD = CC.getMaxDay(year, month);
 
-            //int gTD = getTotalDay(year, month);
-            //int gMD = getMaxDay(year, month);
-
             string[] week = { "日", "月", "火", "水", "木", "金", "土" };
 
             //一週間曜日表示
